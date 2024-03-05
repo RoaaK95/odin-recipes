@@ -1,2 +1,2 @@
 # Odin-Recipes
-A recipes websites consists of a main index page that contains a list of recipes names with each name linking to a new page which contains the full recipes.
+A recipes website consists of a main page that contains a list of recipes' names with each name linking to a new page that contains the full recipe.
