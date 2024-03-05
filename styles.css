@@ -1,0 +1,33 @@
+#title,
+ .subtitle {
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    color:rgb(138, 43, 226);
+    margin-bottom: 2%;
+    font-size: 22px;
+    text-decoration: underline;
+    
+}
+
+ #title{
+    color: rgb(103, 10, 103);
+    text-align: left;
+    font-size: 35px;
+   font-style: oblique;
+    margin-bottom: 4%;
+    background-color: rgb(223, 193, 219);
+    text-decoration: none;
+    text-align: center;
+
+}
+
+#image{
+    height: auto;
+    width: 400px;
+}
+
+p, li{
+    font-size: 18px;
+    font-weight:500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
