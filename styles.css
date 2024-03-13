@@ -1,33 +1,71 @@
-#title,
- .subtitle {
-     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-weight: 800;
-    color:rgb(138, 43, 226);
-    margin-bottom: 2%;
-    font-size: 22px;
-    text-decoration: underline;
+*
+::before
+::after{
+    box-sizing: border-box;
+    align-items: center;
     
 }
 
+.page-background{
+    background-color:rgb(217, 181, 181);
+    margin: auto 80px;
+}
+
+#title,
+ .subtitle {
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    color:rgb(119, 18, 38);
+}
+
  #title{
-    color: rgb(103, 10, 103);
     text-align: left;
     font-size: 35px;
    font-style: oblique;
-    margin-bottom: 4%;
-    background-color: rgb(223, 193, 219);
-    text-decoration: none;
-    text-align: center;
+    margin-bottom:2%;
+    padding: 2px ;
+    border-bottom: 2px solid rgb(119, 18, 38);
+    text-align: left;
 
 }
-
+.subtitle{
+    display: inline-block;
+    width: 800px;
+    padding: 5px;
+    margin-left:-10px;
+    margin-bottom: 4px;
+    font-size: 22px;
+    border-bottom: 1px solid rgb(119, 18, 38);
+    background-color: rgb(225, 195, 195);
+   
+}
 #image{
+    float: left;
     height: auto;
-    width: 400px;
+    width: 450px;
+    border: 3px solid black ;
+    margin-top: 30px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    margin-left: 5px;
+ 
 }
-
 p, li{
     font-size: 18px;
     font-weight:500;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 2px 10px;
+    padding: 0%;
+}
+
+ul{
+    padding-left: 5%;
+}
+
+
+div{
+    margin-bottom: 210px;
+}
+#meatloaf{
+    margin-bottom: 190px;
 }
