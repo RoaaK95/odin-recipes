@@ -7,7 +7,6 @@
 ## Technologies Used  
 - HTML  
 - CSS
-- JavaScript
 
 ## Screenshots  
 ![1](https://github.com/user-attachments/assets/065fe672-61ab-47d6-a47f-914c55a49e35)  
